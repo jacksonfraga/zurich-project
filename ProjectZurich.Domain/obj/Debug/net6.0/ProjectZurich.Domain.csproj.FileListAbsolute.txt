@@ -1,0 +1,11 @@
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\bin\Debug\net6.0\ProjectZurich.Domain.deps.json
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\bin\Debug\net6.0\ProjectZurich.Domain.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\bin\Debug\net6.0\ProjectZurich.Domain.pdb
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.AssemblyInfoInputs.cache
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.AssemblyInfo.cs
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.csproj.CoreCompileInputs.cache
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\refint\ProjectZurich.Domain.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ProjectZurich.Domain.pdb
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Domain\obj\Debug\net6.0\ref\ProjectZurich.Domain.dll

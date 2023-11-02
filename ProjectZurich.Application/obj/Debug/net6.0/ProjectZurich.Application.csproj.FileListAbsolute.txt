@@ -1,0 +1,17 @@
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Application.deps.json
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Application.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Application.pdb
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.AssemblyInfoInputs.cache
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.AssemblyInfo.cs
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.csproj.CoreCompileInputs.cache
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\refint\ProjectZurich.Application.dll
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.pdb
+D:\projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ref\ProjectZurich.Application.dll
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Domain.dll
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Domain.pdb
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.csproj.AssemblyReference.cache
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\obj\Debug\net6.0\ProjectZurich.Application.csproj.CopyComplete
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Infrastructure.dll
+D:\Projects\fraga.dev\ProjectZurich\ProjectZurich.Application\bin\Debug\net6.0\ProjectZurich.Infrastructure.pdb

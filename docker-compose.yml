@@ -1,0 +1,14 @@
+version: '3'
+services:
+  sql-server:
+    image: mcr.microsoft.com/mssql/server
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: Zurich@123
+      ACCEPT_EULA: Y
+    networks:
+      - backend
+
+networks:
+  backend:
